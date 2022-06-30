@@ -1,4 +1,4 @@
-int luxes = 6000;
+int luxes = 6000; // Cambiar valor luxes de ser necesario
 void setup(){
 Serial.begin(9600); //Comunicacion puerto serial.
 }
